@@ -1,0 +1,16 @@
+mysql:
+    host: localhost
+    user: db_user
+    password: changeme
+    db: db_name
+http:
+    http_host: https://demo.thingsboard.io
+mqtt_node:
+    mqtt_host: demo.thingsboard.io # mqtt host name
+    auth_token: "" # Thingsboard authentication token
+devices:
+    start_index: 0 # the index of the first device
+    devices_count: 3 # number of devices
+publish:
+    delay: 5 # in seconds
+    messages_count: 3 # number of msgs
