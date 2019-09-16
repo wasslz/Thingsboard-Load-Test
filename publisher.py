@@ -51,7 +51,7 @@ def welcoming():
     print('===             This is a Load Test tool                 ===')
     print('===            for Thingsboard MQTT devices              ===')
     print('===                                                      ===')
-    print('===           All right reserved for Wasslz              ===')
+    print('===                      By Wasslz                       ===')
     print('===                                                      ===')
     print('===             Author: Mujahed Altahleh                 ===')
     print('===             email: mtahle@wasslz.com                 ===')
