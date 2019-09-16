@@ -51,10 +51,11 @@ publish:
  python3 publisher.py -c config.yaml
 ```
 
-
-
 ## Contributing
 The project is still on the PoC phase, the current script is doing the main jobs but it needs too much of working to be perfect, so all contribution are very welcomed.
 
+##Roadmap
+* create a job manager functions that creates jobs and distribute the tokens over the slaves
+* create a communications mechanisism between the slave and the master (socket is sugested)
 
 
